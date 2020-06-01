@@ -18,3 +18,15 @@
     padding: 10px;
     align-items: center;
 }
+
+.container-2 {
+    border: 1px solid red;
+    width:50%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex-box-container-2{
+    display: flex;
+    border: 1px solid blue;
+
+}
